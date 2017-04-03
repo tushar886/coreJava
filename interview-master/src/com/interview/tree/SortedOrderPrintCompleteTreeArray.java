@@ -24,7 +24,7 @@ public class SortedOrderPrintCompleteTreeArray {
     
     public static void main(String args[]){
         int arr[] = {4, 2, 5, 1, 3};
-        SortedOrderPrintCompleteTreeArray sop = new SortedOrderPrintCompleteTreeArray();
-        sop.print(arr);
+        SortedOrderPrintCompleteTreeArray sopt = new SortedOrderPrintCompleteTreeArray();
+        sopt.print(arr);
     }
 }
